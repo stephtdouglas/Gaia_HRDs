@@ -1,10 +1,11 @@
+# Gaia HRDs
 Create several sets of panels presenting open cluster color-magnitude diagrams using Gaia DR2 data.
 
 The code is licensed under the MIT License, Copyright (c) 2021 Stephanie T. Douglas
 
-
 The data used in the plots was obtained from other sources, and is provided here for convenience.
 
+# Data Sources
 
 Cluster membership and parameters used in these plots are taken from Gaia Collaboration et al. (2018b), A&A, 616, A10
 
